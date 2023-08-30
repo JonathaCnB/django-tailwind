@@ -9,3 +9,5 @@ Aprendendo a integrar o Django com Tailwindcss
 * 5 - ```npm install```
 * 6 - cd src
 * 7 - ```pip install -r requirements.txt```
+* 8 - ```python manage.py migrate```
+* 9 - ```python manage.py runserver```
